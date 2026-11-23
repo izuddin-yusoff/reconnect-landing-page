@@ -1,0 +1,8 @@
+{
+  // Cloudflare Worker that serves reconnect.simoliy.com (static files only).
+  "name": "damp-band-fcdf",
+  "compatibility_date": "2026-11-01",
+  "assets": {
+    "directory": "./public"
+  }
+}
